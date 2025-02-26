@@ -4,3 +4,4 @@ This is my first LÖVE project, so expect the code to be messy.
 Controls:
 escape - pause
 w - toggle fullscreen
+m - mute audio
